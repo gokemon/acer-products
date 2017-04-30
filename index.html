@@ -7,16 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link href="node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
-    <!--<link href="app/app.component.css" rel="stylesheet" />-->
-    <link href="styles.css" rel="stylesheet" />
+    <link href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css " rel="stylesheet " />
+    <!--<link href="app/app.component.css " rel="stylesheet " />-->
+    <link href="styles.css " rel="stylesheet " />
     <!-- Polyfill(s) for older browsers -->
-    <script src="node_modules/core-js/client/shim.min.js"></script>
-    <script src="node_modules/zone.js/dist/zone.js"></script>
-    <script src="node_modules/reflect-metadata/Reflect.js"></script>
-    <script src="node_modules/systemjs/dist/system.src.js"></script>
+    <script src="node_modules/core-js/client/shim.min.js "></script>
+    <script src="node_modules/zone.js/dist/zone.js "></script>
+    <script src="node_modules/reflect-metadata/Reflect.js "></script>
+    <script src="node_modules/systemjs/dist/system.src.js "></script>
 
     <!-- Configure SystemJS -->
-    <script src="systemjs.config.js"></script>
+    <script src="systemjs.config.js "></script>
     <script>
         System.import('app').catch(function(err) {
             console.error(err);
@@ -25,20 +26,21 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-default">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-th-list"></span> Acer Products</a>
+    <nav class="navbar navbar-default ">
+        <div class="container-fluid ">
+            <div class="navbar-header ">
+                <a class="navbar-brand " href="# "><span class="glyphicon glyphicon-th-list "></span> Acer Products</a>
             </div>
-            <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Products</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#"><span class="glyphicon glyphicon-envelope"></span>Contact</a></li>
+            <ul class="nav navbar-nav ">
+                <li class="active "><a href="# ">Home</a></li>
+                <li><a href="# ">Products</a></li>
+                <li><a href="# ">About</a></li>
+                <li><a href="# "><span class="fa fa-envelope " aria-hidden="true ">&nbsp;</span>Contact</a></li>
             </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            <ul class="nav navbar-nav navbar-right ">
+                <!--<li><a href="# "><span class="glyphicon glyphicon-user "></span> Sign Up</a></li>-->
+                <li><a href="# "><span class="fa fa-user " aria-hidden="true ">&nbsp;</span> Sign Up</a></li>
+                <li><a href="# "><span class="fa fa-sign-in " aria-hidden="true ">&nbsp;</span> Login</a></li>
             </ul>
         </div>
     </nav>
@@ -48,7 +50,9 @@
     <footer>
         <p>&nbsp;</p>
         <hr>
-        <p>&copy;2017 Michael Gokey</p>
+        <p><i class="fa fa-copyright " aria-hidden="true "></i>2017 Michael Gokey
+        <a href="https://github.com/gokemon " target="_blank "><i class="fa fa-github " aria-hidden="true ">&nbsp;</i>Check out my GitHub</a>
+        </p>
     </footer>
 </body>
 
