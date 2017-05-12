@@ -1,3 +1,19 @@
 
 
-angular-2-getting-started on pluralsight
+May 11, My 50th Birthday
+I am 49 Days into my 100 Days of Code. And I am taking a break!
+Rather than not post a commit, which would look like I wasn't present, or I missed it, 
+I am choosing to post a note. I may post actual code later, if I feel like it.
+
+https://github.com/angular/angular-cli/wiki/stories-include-bootstrap
+I added Bootstrap 4/next, but now I need to remove the old bootstrap, 
+and fix any migration issues. 
+
+
+
+This is my take on a Product Management page.
+Nested components like the stars 
+and a welcome page, and a product and product details page add to routing realism. 
+
+This project is based on angular-2-getting-started on pluralsight
+
