@@ -7,7 +7,7 @@ I am choosing to post a note. I may post actual code later, if I feel like it.
 
 https://github.com/angular/angular-cli/wiki/stories-include-bootstrap
 I added Bootstrap 4/next, but now I need to remove the old bootstrap, 
-and fix any migration issues. 
+and fix any migration issues. Just added some images.
 
 
 
@@ -16,4 +16,10 @@ Nested components like the stars
 and a welcome page, and a product and product details page add to routing realism. 
 
 This project is based on angular-2-getting-started on pluralsight
+
+
+Turns out there is a fatal flaw in my project. I never quite knew how it got started, but I was just building and building...
+It doesn't have the Angular CLI as core of this project, so I plan to restart it.
+https://github.com/lorint/AdventureWorks-for-Postgres
+I also plan to use the AdventureWorks as part of the database.
 
