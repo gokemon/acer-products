@@ -23,3 +23,14 @@ It doesn't have the Angular CLI as core of this project, so I plan to restart it
 https://github.com/lorint/AdventureWorks-for-Postgres
 I also plan to use the AdventureWorks as part of the database.
 
+
+==================================================
+11:32 PM Saturday, May 13, 2017
+https://hackerthemes.com/bootstrap-cheatsheet/
+http://v4-alpha.getbootstrap.com/examples/sticky-footer-navbar/
+http://getbootstrap.com/examples/sticky-footer-navbar/
+https://www.codeply.com/go/wECEBeWpLO/bootstrap-4-sticky-footer-flexbox
+http://www.quackit.com/html/html_editors/scratchpad/?example=/bootstrap/bootstrap_4/tutorial/bootstrap_4_cards_header_and_footer
+
+https://designmodo.com/bootstrap-4-tutorial/
+
